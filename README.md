@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I am **simplemice/simplemice**. Welcome to My Github Account.
+## I am **simplemice**. Welcome to My Github Account.
 
 Information in progress...
 
