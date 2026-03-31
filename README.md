@@ -4,6 +4,7 @@
 ### A Network/System DevOps Engeneer.
 
 I’m a developer and system explorer who enjoys turning "Connection Refused" into "200 OK." My natural habitat is a terminal window, and my favorite pets are Mikrotik and HomeAssistant.
+I only open issue tickets, i didn't make public commits, but i provide full information. Live is Simple.
 
 Information in progress...
 
